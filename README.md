@@ -7,8 +7,7 @@ issue within the repository that outlines the protections that were added.
 
 ## Prerequisites
 
-In order to run this project on your local machine, we will use [ngrok](https://ngrok.
-com/) or [Localtunnel](https://github.com/localtunnel/localtunnel) to send webhooks 
+In order to run this project on your local machine, we will use [ngrok](https://ngrok.com/) or [Localtunnel](https://github.com/localtunnel/localtunnel) to send webhooks 
 to the local machine without exposing it to the internet. 
 
 ## Usage
